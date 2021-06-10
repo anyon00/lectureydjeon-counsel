@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "lecture-counsel"
+    _PROJECT_NAME: "user18-counsel"
 
 phases:
   install:
